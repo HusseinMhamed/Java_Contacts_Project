@@ -45,14 +45,7 @@ public class help extends JFrame {
         label3[6].setBounds(740, 610, 150, 30);
         label3[7].setText("Created by a team under supervision : ");
         label3[7].setBounds(70, 410, 800, 30);
-        label3[8].setText("*Ahmed Elsayed farag  , From Gharbia , Zefti, Assiut Center ,ID:2201719__Ph:01062885633");
-        label3[8].setBounds(50, 450, 900, 30);
-        label3[9].setText("*beshoo  , tomas, hussein , zeyad");
-        label3[9].setBounds(50, 490, 900, 30);
-        label3[10].setText("Under the supervision of Engineer   :      **Salma Montaser**");
-        label3[10].setBounds(70, 550, 900, 30);
-        label3[11].setText("Under the care of : Dr. *Yasser*");
-        label3[11].setBounds(70, 600, 900, 30);
+        
         fram4.setVisible(true);
 
     }
